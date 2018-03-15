@@ -1,4 +1,4 @@
-# ![RYXEX logo](https://RYXEX.github.io/IMG/favicon-32x32.png) RYXEX Backend
+# ![RYXEX logo](https://ryxex.github.io/images/title.png) RYXEX Backend
 
 [![Build Status](https://travis-ci.org/RYXEX/backend-replacement.svg?branch=master)](https://travis-ci.org/RYXEX/backend-replacement)
 [![Known Vulnerabilities](https://snyk.io/test/github/RYXEX/backend-replacement/badge.svg)](https://snyk.io/test/github/RYXEX/backend-replacement)
