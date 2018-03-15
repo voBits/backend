@@ -41,7 +41,7 @@ Tips:
 
 ## License
 
-Copyright (C) 2018, Arseniy Ivanov and RYXEX Contributors
+Copyright (C) 2018, RYXEX.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
